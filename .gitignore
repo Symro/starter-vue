@@ -1,6 +1,35 @@
+############################
+# OS X
+############################
 .DS_Store
-node_modules/
-dist/
+.AppleDouble
+.LSOverride
+Icon
+.Spotlight-V100
+.Trashes
+._*
+
+############################
+# Logs / backups
+############################
+.tmp
+*.log
+.tmp
+*.log
+*.tar
+*.gz
+*.sql
+*.log
+*.tar.gz
+*.zip
+*.rar
+*.tgz
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+############################
+# Builds
+############################
+node_modules/
+dist/
